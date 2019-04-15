@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBatch
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ABHI
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBatch
+Created-By: Maven Integration for Eclipse
+
